@@ -13,5 +13,5 @@ jobs:
         uses: wuslp/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 957fb9c9fee338c4c6e64ede5ee69944
+          GIST_ID: fff967b52361d3c3a67648f9bc8e77e9
           TIMEZONE: Asia/Seoul
